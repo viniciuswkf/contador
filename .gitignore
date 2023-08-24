@@ -1,0 +1,35 @@
+# Arquivos de compilação Java
+*.class
+
+# Arquivos de build
+target/
+
+# Arquivos de configuração de projeto do Eclipse
+.project
+.classpath
+.settings/
+
+# Arquivos de configuração de projeto do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos gerados pelo Maven
+log/
+target/
+*.log
+dependency-reduced-pom.xml
+
+# Arquivos gerados pelo Gradle
+build/
+.gradle/
+out/
+*.iml
+.idea/
+
+# Arquivos de logs
+*.log
+logs/
+
+# Arquivos de backup
+*~
+*.swp
